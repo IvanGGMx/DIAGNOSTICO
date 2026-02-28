@@ -1,0 +1,38 @@
+{
+    "admin": {
+        "password": "admin123",
+        "attempts": []
+    },
+    "erick1": {
+        "password": "Nautica19",
+        "attempts": [
+            {
+                "16": "Dos etapas de disociaci\u00f3n",
+                "12": "Un gas",
+                "22": "Color del recipiente",
+                "6": "El pH depende del volumen",
+                "1": "La formaci\u00f3n de un gas",
+                "18": "Solo hay un punto de equivalencia",
+                "9": "Determinar concentraciones desconocidas",
+                "4": "La reacci\u00f3n debe ser lenta",
+                "21": "Subestimaci\u00f3n de concentraci\u00f3n",
+                "24": "Masa del precipitado",
+                "13": "Medir temperatura",
+                "7": "Medici\u00f3n de absorbancia",
+                "20": "Agitando constantemente",
+                "17": "Resolver sistemas complejos",
+                "19": "Rapidez y cuantitatividad",
+                "0": "Cuando cambia el color del indicador",
+                "8": "Tener potencial constante",
+                "10": "Tabla de Variaci\u00f3n de Concentraciones Molares",
+                "3": "Transferencia de protones",
+                "2": "Transferencia de electrones",
+                "5": "Conductimetr\u00eda",
+                "15": "Un prot\u00f3n intercambiable",
+                "23": "pH de la soluci\u00f3n",
+                "11": "Conductividad",
+                "14": "Potenciometr\u00eda"
+            }
+        ]
+    }
+}
